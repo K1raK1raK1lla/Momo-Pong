@@ -1,0 +1,7 @@
+//////////////////////////////////////////////////
+/* PURPOSE: ENSURE COLLISION IS WORKING,       */
+/*			SUCH THAT THE PLAYER STOPS WHEN   */
+/*			ENCOUNTERING THE WALL            */
+//////////////////////////////////////////////
+
+//null
